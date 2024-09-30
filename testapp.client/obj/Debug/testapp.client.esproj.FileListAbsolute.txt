@@ -1,0 +1,2 @@
+D:\Oviya\TestApp\testapp.client\obj\Debug\testapp.client.esproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\TestApp\testapp.client\obj\Debug\testapp.client.esproj.CoreCompileInputs.cache

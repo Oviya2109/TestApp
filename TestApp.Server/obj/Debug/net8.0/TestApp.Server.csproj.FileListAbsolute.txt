@@ -1,0 +1,70 @@
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\spa.proxy.json
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\appsettings.json
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.exe
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.deps.json
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.runtimeconfig.json
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.dll
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.pdb
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Oviya\TestApp\TestApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.csproj.AssemblyReference.cache
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\spa.proxy.json
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.AssemblyInfoInputs.cache
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.AssemblyInfo.cs
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.csproj.CoreCompileInputs.cache
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.TestApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TestApp.Server.props
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestApp.Server.props
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestApp.Server.props
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\scopedcss\bundle\TestApp.Server.styles.css
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.csproj.CopyComplete
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.dll
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\refint\TestApp.Server.dll
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.pdb
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.genruntimeconfig.cache
+D:\Oviya\TestApp\TestApp.Server\obj\Debug\net8.0\ref\TestApp.Server.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.exe
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.deps.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.runtimeconfig.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\TestApp.Server.pdb
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.TestApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.TestApp.Server.props
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestApp.Server.props
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestApp.Server.props
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\scopedcss\bundle\TestApp.Server.styles.css
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.csproj.CopyComplete
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\refint\TestApp.Server.dll
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.pdb
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\TestApp.Server.genruntimeconfig.cache
+C:\Users\DELL\Desktop\New folder\TestApp\TestApp.Server\obj\Debug\net8.0\ref\TestApp.Server.dll
